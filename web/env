@@ -1,0 +1,5 @@
+Change this file to .env and insert your Mapbox ID
+
+REACT_APP_MAPBOX_TOKEN=pk.eyJ1IjoiZWx0bp6YXJpbiImEiOiJja2c3YTVlYzkwNWdiMnJvMmo3Y2lodWx4In0.AnK-zQXNEjwNaTmq1mbI_g
+
+SKIP_PREFLIGHT_CHECK=true
