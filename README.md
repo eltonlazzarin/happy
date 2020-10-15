@@ -1,6 +1,6 @@
-<h1 align="center">
+<!--h1 align="center">
 	<img alt="Logo" src="https://github.com/eltonlazzarin/happy/blob/master/screenshots/nlw2.svg" />
-</h1>
+</h1-->
 
 <h3 align="center">
   Happy is a complete application built on Node.js, ReactJs and React Native that helps orphans have a bright and happy day
@@ -56,8 +56,11 @@ Technologies that I used to develop this api
 - [TypeScript](https://www.typescriptlang.org)
 - [Cors](https://github.com/expressjs/cors)
 - [Express](https://github.com/expressjs/express)
-- [Knex](https://github.com/knex/knex)
+- [Express-Async-Errors](https://github.com/davidbanham/express-async-errors)
+- [TypeORM](https://typeorm.io/)
 - [Sqlite3](https://github.com/sqlite/sqlite)
+- [Multer](https://github.com/expressjs/multer)
+- [Yup](https://github.com/jquense/yup)
 - [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
 
 ## 💻 Backend getting started
@@ -127,7 +130,10 @@ Technologies that I used to develop this frontend app
 - [TypeScript](https://www.typescriptlang.org)
 - [Axios](https://github.com/axios/axios)
 - [React Router v5](https://github.com/ReactTraining/react-router)
-- [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
+- [React-Icons](https://react-icons.github.io/react-icons)
+- [React-Leaflet](https://react-leaflet.js.org)
+- [React-Icons](https://react-icons.github.io/react-icons)
+- [VS Code](https://code.visualstudio.com) with [ESLInt](https://eslint.org/docs/user-guide/getting-started), [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
 
 ## 💻 Frontend getting started
 
@@ -196,10 +202,9 @@ Technologies that I used to develop this mobile app
 - [React-Native](https://reactnative.dev/docs/getting-started)
 - [Axios](https://github.com/axios/axios)
 - [@expo-google-fonts](https://github.com/expo/google-fonts)
-- [@react-native-community/async-storage](https://github.com/react-native-community/async-storage)
-- [@react-navigation/bottom-tabs](https://reactnavigation.org/docs/bottom-tab-navigator/)
 - [@react-navigation/navigator](https://reactnavigation.org/docs/stack-navigator)
 - [React-Navigation-Stack](https://github.com/react-navigation)
+- [React-Native-Maps](https://docs.expo.io/versions/latest/sdk/map-view)
 - [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
 
 ## 💻 Mobile getting started
