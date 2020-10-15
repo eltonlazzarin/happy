@@ -44,9 +44,9 @@
 
 ## 👨🏻‍💻 About the project
 
-<p>happy is an online study platform, with the aim of connecting education professionals with people interested in learning new subjects. In the web version, the education professional can register to teach classes and/or search for other professionals in order to learn something new, while in the mobile version the user can search for professionals through search filters according to their needs.
+<p>Happy is a project that aims to bring people together to visit children and teenagers in orphanages in order to make their days more joyful. Both on the web and on the mobile version, the institutions that house these children and adolescents can register and from there, through a map inside the platform, volunteers can choose the closest institution, or the one that is most interesting and get informed with them how to schedule a visitation and / or donation of materials that it is currently needing.
 
-This is a project developed during the #NextLevelWeek2. An online programming event given by Rocketseat that shows how to use the JavaScript / TypeScript stack, on the backend with Nodejs, on the frontend with ReactJS and on mobile using the Expo.</p>
+This is a project developed during # NextLevelWeek3. An online programming event offered by Rocketseat that shows how to use the JavaScript / TypeScript stack, on the backend with Nodejs, on the frontend with ReactJS and on the mobile using Expo.</p>
 
 ## 🚀 Backend Technologies
 
@@ -84,7 +84,7 @@ $ cd server
 $ yarn
 
 # Run the API
-$ yarn start
+$ yarn dev
 ```
 
 ## 🤔 How to contribute backend
