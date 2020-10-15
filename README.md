@@ -1,6 +1,6 @@
-<!--h1 align="center">
-	<img alt="Logo" src="https://github.com/eltonlazzarin/happy/blob/master/screenshots/nlw2.svg" />
-</h1-->
+<h1 align="center">
+	<img alt="Logo" src="https://github.com/eltonlazzarin/happy/blob/main/mobile/src/assets/images/map-marker%402x.png" />
+</h1>
 
 <h3 align="center">
   Happy is a complete application built on Node.js, ReactJs and React Native that helps orphans have a bright and happy day
@@ -44,9 +44,9 @@
 
 ## 👨🏻‍💻 About the project
 
-<p>Happy is a project that aims to bring people together to visit children and teenagers in orphanages in order to make their days more joyful. Both on the web and on the mobile version, the institutions that house these children and adolescents can register and from there, through a map inside the platform, volunteers can choose the closest institution, or the one that is most interesting and get informed with them how to schedule a visitation and / or donation of materials that it is currently needing.
+<p>Happy is a project that aims to bring people together to visit children and teenagers in orphanages in order to make their days more joyful. Both on the web and on the mobile version, the institutions that house these children and adolescents can register and from there, through a map inside the platform, volunteers can choose the closest institution, or the one that is most interesting and get informed with them how to schedule a visitation and/or donation of materials that it is currently needing.
 
-This is a project developed during # NextLevelWeek3. An online programming event offered by Rocketseat that shows how to use the JavaScript / TypeScript stack, on the backend with Nodejs, on the frontend with ReactJS and on the mobile using Expo.</p>
+This is a project developed during #NextLevelWeek3. An online programming event offered by Rocketseat that shows how to use the JavaScript/TypeScript stack, on the backend with Nodejs, on the frontend with ReactJS and on the mobile using Expo.</p>
 
 ## 🚀 Backend Technologies
 
