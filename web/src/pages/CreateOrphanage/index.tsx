@@ -128,7 +128,12 @@ export default function CreateOrphanage() {
 
               <div className='images-container'>
                 {previewImages?.map((image) => {
-                  return <img key={image} src={image} alt={name} />;
+                  return (
+                    <div onClick={() => setPreviewImages([])}>
+                      <span>X</span>
+                      <img key={image} src={image} alt={name} />
+                    </div>
+                  );
                 })}
 
                 <label htmlFor='image[]' className='new-image'>
@@ -195,5 +200,3 @@ export default function CreateOrphanage() {
     </div>
   );
 }
-
-// return `https://a.tile.openstreetmap.org/${z}/${x}/${y}.png`;
