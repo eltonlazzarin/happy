@@ -120,9 +120,9 @@ This project is under the MIT license. See the [LICENSE](https://github.com/elto
 
 ## 🚀 Frontend Technologies
 
-<!--h1 align="center">
-	<img alt="Project Screenshots" src="https://github.com/eltonlazzarin/happy/blob/master/screenshots/web/happyweb.gif" />
-</h1-->
+<h1 align="center">
+	<img alt="Project Screenshots" src="https://github.com/eltonlazzarin/happy/blob/main/screenshots/web/happyWeb.gif" />
+</h1>
 
 Technologies that I used to develop this frontend app
 
@@ -192,9 +192,9 @@ This project is under the MIT license. See the [LICENSE](https://github.com/elto
 
 ## 🚀 Mobile Technologies
 
-<!--h1 align="center">
-	<img alt="Mobile App Screenshots" src="https://github.com/eltonlazzarin/happy/blob/master/screenshots/mobile/happymobile.gif" hight="380" width="350" />
-</h1-->
+<h1 align="center">
+	<img alt="Mobile App Screenshots" src="https://github.com/eltonlazzarin/happy/blob/main/screenshots/mobile/happyMobile.gif" hight="380" width="350" />
+</h1>
 
 Technologies that I used to develop this mobile app
 
