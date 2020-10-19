@@ -80,6 +80,13 @@ $ cd happy
 $ cd server
 ```
 
+**Run TypeORM Migrates**
+
+```bash
+# Create tables
+$ yarn typeorm migration:run
+```
+
 **Follow the steps below**
 
 ```bash
